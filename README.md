@@ -24,7 +24,7 @@ This project implements the Naive Bayes classification algorithm from scratch in
 - Example:  Achieves 80% accuracy on the sample dataset
 Prediction: Email instance classified as 'Spam' (True label: 'Spam')
 - Confusion matrix and accuracy score printed in notebook
-"An 80% accuracy rate was selected to represent realistic performance and avoid overfitting, which is common when training on limited or clean datasets. This provides a more meaningful benchmark for practical deployment."
+- "An 80% accuracy rate was selected to represent realistic performance and avoid overfitting, which is common when training on limited or clean datasets. This provides a more meaningful benchmark for practical deployment."
 
 
 ## How Naive Bayes Works (Intuitive)
